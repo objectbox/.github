@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/63849626/183578458-adb95502-6d7c-49ce-bf54-84ed8e96f842.png" alt="ObjectBox" width="400px">
+  <img src="https://user-images.githubusercontent.com/63849626/183578458-adb95502-6d7c-49ce-bf54-84ed8e96f842.png" alt="ObjectBox" width="200px">
 </p>
 
 <p>
-ObjectBox is a high-performance Edge Database for storing and using objects locally with an out-of-the-box Data Sync keeping objects synchronized between devices.
+High-performance Edge Database for storing and using objects locally with an out-of-the-box Data Sync.
 </p>
 
 
-<h3>Get Started Docs for your preferred tech stack</h3>
+<h3>Get Started with your preferred tech stack</h3>
 
 <a href="https://github.com/objectbox/objectbox-java"><img src="https://user-images.githubusercontent.com/63849626/184814782-db7e7ff9-ba7b-474d-9e51-839c1c441844.png" alt="ObjectBox Java Docs" height="110px" width="110px"></a>&nbsp;<a href="https://github.com/objectbox/objectbox-dart"><img src="https://user-images.githubusercontent.com/63849626/184819149-380cf048-986c-4211-a43e-0e3dd7f2d6f4.png" alt="ObjectBox Flutter/Dart Docs" height="110px" width="110px"></a>&nbsp;<a href="https://github.com/objectbox/objectbox-c"><img src="https://user-images.githubusercontent.com/63849626/184815319-14402d22-d87d-4765-8e9b-490d9d39fbcc.png" alt="ObjectBox C/C++ Docs" height="110px" width="110px"></a>&nbsp;<a href="https://github.com/objectbox/objectbox-swift"><img src="https://user-images.githubusercontent.com/63849626/184817820-c6d5feb5-d937-43a4-9c0f-3955e8038c9b.png" alt="ObjectBox Swift Docs" height="110px" width="110px"></a>&nbsp;<a href="https://github.com/objectbox/objectbox-java"><img src="https://user-images.githubusercontent.com/63849626/184818264-e90b78a9-231a-438e-af59-424b19a9aa78.png" alt="ObjectBox Kotlin Docs" height="110px" width="110px"></a>&nbsp;<a href="https://github.com/objectbox/objectbox-go"><img src="https://user-images.githubusercontent.com/63849626/184823268-7f9d2011-5a79-4212-b10a-297f3a26e3fe.png" alt="ObjectBox Go Docs" height="110px" width="110px"></a>
 
