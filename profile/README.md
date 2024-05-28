@@ -2,7 +2,7 @@
 
 
 <p>
-High-performance Edge Database for storing and using objects locally with an out-of-the-box Data Sync.
+High-performance Edge Database for storing and using objects & vector data locally with an out-of-the-box Data Sync. First on-device vector database for Mobile, IoT, and other restricted hardware.
 </p>
 
 <h3>🎓 Learn about ObjectBox</h3>
