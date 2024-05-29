@@ -1,8 +1,10 @@
 ![objectbox-readme-header](https://user-images.githubusercontent.com/91467067/189953535-6e7bf686-5d12-4217-ac8c-bd898925fdd0.jpg)
 
 
+<h3>First on-device vector database for Mobile, IoT, and other restricted hardware - local & private</h3>
+
 <p>
-High-performance Edge Database for storing and using objects & vector data locally with an out-of-the-box Data Sync. First on-device vector database for Mobile, IoT, and other restricted hardware.
+High-performance Edge Database for storing and using objects & vector data locally with an out-of-the-box Data Sync.
 </p>
 
 <h3>🎓 Learn about ObjectBox</h3>
