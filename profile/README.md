@@ -4,7 +4,7 @@
 <h3>First on-device vector database for Mobile, IoT, and other restricted hardware - local & private</h3>
 
 <p>
-High-performance Edge Database for storing and using objects & vector data locally with an out-of-the-box Data Sync.
+Local first. Offline capable. No setup. Enjoy the speed of working with objects and vectors on and across devices with easy-to-use APIs in the language of your choice now.
 </p>
 
 <h3>🎓 Learn about ObjectBox</h3>
